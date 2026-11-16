@@ -332,11 +332,6 @@ Contributions, suggestions, and improvements are welcome.
 4. Push the branch.
 5. Open a Pull Request.
 
----
-
-## 📄 License
-
-The application source code contains an Apache-2.0 SPDX license identifier in `src/App.tsx`. A repository-wide license has not been established by the supplied project files. Add an appropriate `LICENSE` file before distributing the project under a specific open-source license.
 
 ---
 
