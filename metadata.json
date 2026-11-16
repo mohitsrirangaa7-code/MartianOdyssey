@@ -1,0 +1,6 @@
+{
+  "name": "Cosmic Witness",
+  "description": "Exploring the unknown to build the future — advanced spacecraft, orbital services, and missions beyond Earth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
