@@ -280,6 +280,9 @@ Areas of interest include:
 - West Candor Floor Outpost
 
 ---
+## Some Screenshots
+<img width="902" height="425" alt="Screenshot 2026-11-16 163549" src="https://github.com/user-attachments/assets/b93db4c6-011d-46e1-8b99-6aeb9d97d8d9" />
+
 
 ## ⌨️ Keyboard Shortcuts
 
